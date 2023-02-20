@@ -1,3 +1,4 @@
+D:\Users\Mari\Desktop\Maven1> mvn test
 [INFO] Scanning for projects...
 [INFO] 
 [INFO] -------------------------< org.example:Maven1 >-------------------------
@@ -37,5 +38,5 @@
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 [INFO] Total time:  4.437 s
-[INFO] Finished at: 2023-02-19T16:30:39+03:00
+[INFO] Finished at: 2023-02-20T19:30:39+03:00
 [INFO] ------------------------------------------------------------------------

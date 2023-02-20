@@ -1,3 +1,4 @@
+PS D:\Users\Mari\Desktop\Maven1> mvn compile
 [INFO] Scanning for projects...
 [INFO] 
 [INFO] -------------------------< org.example:Maven1 >-------------------------
@@ -15,5 +16,5 @@
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 [INFO] Total time:  2.155 s
-[INFO] Finished at: 2023-02-19T16:30:03+03:00
+[INFO] Finished at: 2023-02-20T16:31:03+03:00
 [INFO] ------------------------------------------------------------------------
